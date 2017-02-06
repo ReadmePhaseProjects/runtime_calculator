@@ -10,7 +10,7 @@ Program Author, Michael Dimmitt
 </pre>
 
 
-<pre>
+
 http://softwareengineering.stackexchange.com/questions/180948/why-arent-user-defined-operators-more-common
 
 There are two diametrically opposed schools of thought in programming language design. One is that programmers write better code with fewer restrictions, and the other is that they write better code with more restrictions. In my opinion, the reality is that good experienced programmers flourish with fewer restrictions, but that restrictions can benefit the code quality of beginners.
@@ -19,4 +19,4 @@ User-defined operators can make for very elegant code in experienced hands, and 
 
 community wiki
 Karl Bielefeldt
-</pre>
+
